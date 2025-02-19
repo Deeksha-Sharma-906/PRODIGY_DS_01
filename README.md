@@ -1,2 +1,8 @@
-# PRODIGY_DS_01
-Intern at Prodigy Infotech, working on Data Science projects. This repository stores my projects and implementations.
+# **Prodigy Tasks**
+### **PRODIGY_DS_01**
+
+#### **Task:** 
+Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+(**Sample Dataset** :- https://data.worldbank.org/indicator/SP.POP.TOTL )
+
+
